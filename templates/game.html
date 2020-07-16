@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<link rel="stylesheet" href="{{url_for('static', filename='game.css')}}" type="text/css">
+{% endblock %}
+
+{% block content %}
+<script src="{{url_for('static', filename='game.js')}}" charset="utf-8"></script>
+{% endblock %}
