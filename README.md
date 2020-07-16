@@ -34,4 +34,17 @@ suits wins.
 
 ## implementation details
 
+## pages
+
+homepage (create/join fish session) 
+- create game 
+- join game
+
+gamepage (unique)
+- shows cards you have
+- all the players (whose turn it is and who they are asking => highlighted with different colors)
+
+
+
+
 
